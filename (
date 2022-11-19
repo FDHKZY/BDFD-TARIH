@@ -1,0 +1,15 @@
+```
+
+$nomention
+
+$title[TARİH]
+
+$description[Gün : **$day**
+
+Ay : **$month**
+
+Yıl : **$year**]
+
+$color[ffffff]
+
+```
